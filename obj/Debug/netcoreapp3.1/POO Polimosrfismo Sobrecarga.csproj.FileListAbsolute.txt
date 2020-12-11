@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\POO Polimosrfismo Sobrecarga\obj\Debug\netcoreapp3.1\POO Polimosrfismo Sobrecarga.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\POO Polimosrfismo Sobrecarga\obj\Debug\netcoreapp3.1\POO Polimosrfismo Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\POO Polimosrfismo Sobrecarga\obj\Debug\netcoreapp3.1\POO Polimosrfismo Sobrecarga.AssemblyInfo.cs
+C:\Users\dev\Desktop\POO Polimosrfismo Sobrecarga\obj\Debug\netcoreapp3.1\POO Polimosrfismo Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\POO Polimosrfismo Sobrecarga\bin\Debug\netcoreapp3.1\POO Polimosrfismo Sobrecarga.exe
+C:\Users\dev\Desktop\POO Polimosrfismo Sobrecarga\bin\Debug\netcoreapp3.1\POO Polimosrfismo Sobrecarga.deps.json
+C:\Users\dev\Desktop\POO Polimosrfismo Sobrecarga\bin\Debug\netcoreapp3.1\POO Polimosrfismo Sobrecarga.runtimeconfig.json
+C:\Users\dev\Desktop\POO Polimosrfismo Sobrecarga\bin\Debug\netcoreapp3.1\POO Polimosrfismo Sobrecarga.runtimeconfig.dev.json
+C:\Users\dev\Desktop\POO Polimosrfismo Sobrecarga\bin\Debug\netcoreapp3.1\POO Polimosrfismo Sobrecarga.dll
+C:\Users\dev\Desktop\POO Polimosrfismo Sobrecarga\bin\Debug\netcoreapp3.1\POO Polimosrfismo Sobrecarga.pdb
+C:\Users\dev\Desktop\POO Polimosrfismo Sobrecarga\obj\Debug\netcoreapp3.1\POO Polimosrfismo Sobrecarga.dll
+C:\Users\dev\Desktop\POO Polimosrfismo Sobrecarga\obj\Debug\netcoreapp3.1\POO Polimosrfismo Sobrecarga.pdb
+C:\Users\dev\Desktop\POO Polimosrfismo Sobrecarga\obj\Debug\netcoreapp3.1\POO Polimosrfismo Sobrecarga.genruntimeconfig.cache
